@@ -36,10 +36,6 @@ Personal <>
 
 
 
-## 📈 Activity Graph
-<p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=manishgautammg3994&theme=minimal"/>
-</p>
 
 
 
@@ -47,8 +43,8 @@ Personal <>
 
 
 
-  
-<div align="center">
+
+
 
 ### Show some ❤️ by starring some of the repositories! and Visiting Our Youtube Channel [@Antinna](https://m.youtube.com/@antinna).
 
